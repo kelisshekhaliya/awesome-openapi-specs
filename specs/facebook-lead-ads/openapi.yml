@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: Facebook Lead Ads API
-  version: 26.0
+  version: '26.0'
   description: |
     Community-maintained OpenAPI coverage for Meta Graph API operations used to
     discover lead forms, read submitted and test leads, and configure leadgen
